@@ -1,0 +1,94 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+.banner_wrapper{
+	height: 700px !important;
+
+}
+.banner_img{
+	background-image: url(../images/image1.jpg);
+	background-repeat:repeat;
+	background-size:100% auto ;
+	height: 700px;
+	background-attachment: fixed;
+	position: relative;
+}
+.ass{
+	height: 700px !important;
+
+}
+.ass-img{
+	background-image: url(../images/ass.jpg);
+	background-repeat:repeat;
+	background-size:100% auto;
+	height: 700px;
+	background-attachment: fixed;
+}
+.back{
+	background-color: black;
+	opacity: 0.6;
+	height: 700px;
+}
+h1, th{ 
+   color: black !important; 
+   font: bold 24px/45px Helvetica, Sans-Serif; 
+   letter-spacing: 6px;   
+   font-size: 30px !important;
+   margin-top: 40px  !important;
+   text-transform: uppercase;
+   text-align: center !important;
+}
+p{
+	color: blue !important;
+	font-family: Museo !important;
+	text-align: justify;
+	font-size: 20px;
+}
+th{
+	color: white !important;
+	font-family: Museo !important;
+	font-size: 15px !important;
+}
+.service{
+	background-color:black;
+	opacity: 0.6;
+	height: 400px;
+}
+.img{
+	background-image: url(../images/image.jpg);
+	background-repeat:repeat;
+	background-size:auto 100%;
+	height: 400px;
+	background-attachment: fixed;
+}
+.dig_banner{
+	background-color:brown;
+	height: 250px;
+	max-height: 250px;
+	color: white;
+	
+}
+.learn_banner{
+	background-color:yellow;
+	height: 250px;
+	max-height:250px;
+}
+.gallery{
+	margin-top: 30px;
+}
+footer{
+	height: 80px !important;
+}
+
+.image{
+	background-image: url(../images/konga.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+}
+// .right{
+// 	padding-left: 210px !important;
+// }
+
+
