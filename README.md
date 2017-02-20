@@ -1,2 +1,0 @@
-# greymater
-greymatter website
